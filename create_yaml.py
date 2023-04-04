@@ -1,8 +1,8 @@
 import yaml
 
 data_yaml = dict(
-    train = '../archive/train',
-    val = '../archive/valid',
+    train = 'archive/train',
+    val = 'archive/valid',
     nc = 1,
     names = ['Tire']
 )
